@@ -7,6 +7,7 @@ Week 1-3
 ## Index
 The project are binned into sequential steps of data pipeline to be carried out further:
 1. EDA (Exploratory data Analysis)
+
 Week 4 
 The project is binned into sequential steps of the data pipeline to be carried out further:
 1. Neural Network training
