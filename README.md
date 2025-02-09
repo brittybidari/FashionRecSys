@@ -1,19 +1,9 @@
 # FashioNova - Machine Learning Projects Portfolio
 
-Week 1
-Proposed Project Ideas
-
-1. Fashion Recommendation system - Assistant
-2. Automatic Number Plate Recognition
-3. Social media crisis management
-
-
-Week 2
-1. Finalized Recommended Fashion Recommendaion System
-2. Discussed tech stacks and team collaboration tools.
+1. Finalized Fashion Recommendaion System
+2. Discussed tech stacks version update and collaboration tools.
 3. Discussed the data source to be utlized in the project.
 
-Week 3
 ## Index
 The project are binned into sequential steps of data pipeline to be carried out further:
 1. [EDA (Exploratory data Analysis)](https://github.com/sarahfuchi/Data-Science/blob/main/EDA%20(Exploratory%20data%20Analysis)/README.md)
@@ -38,8 +28,7 @@ Creating lambda function for training model acccessibility
 week 12 
 wrapping up the deployment
 
-week15 
-worked on presentation
-submitted the ppt,report,code in moodle
-uploading the working model to cloud. 
+week13
+updated the project in a global repository
+
 
